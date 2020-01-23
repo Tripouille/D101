@@ -1,0 +1,8 @@
+Credentials cache: API:57510
+        Principal: jgambard@LE-101.FR
+
+  Issued                Expires               Principal
+Jul  1 11:02:49 2019  Jul  1 21:02:49 2019  krbtgt/LE-101.FR@LE-101.FR
+Jul  1 11:02:50 2019  Jul  1 21:02:49 2019  ldap/ldap-master.le-101.fr@LE-101.FR
+Jul  1 11:02:50 2019  Jul  1 21:02:49 2019  HTTP/san-ssd.le-101.fr@LE-101.FR
+Jul  1 15:45:52 2019  Jul  1 21:02:49 2019  host/vogsphere.le-101.fr@LE-101.FR
